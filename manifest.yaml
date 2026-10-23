@@ -1,5 +1,5 @@
 id: gustavohps10-claude
-name: Claude
+name: Claude Theme
 version: 0.1.0
 capabilities:
   - theme
