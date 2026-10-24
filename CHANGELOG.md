@@ -1,5 +1,11 @@
 # @gustavohps10/claude-theme
 
+## 0.2.0
+
+### Minor Changes
+
+- fdeb9b1: Build and package Claude against the published SDK 0.12 with an updated dependency and lockfile. Preserve the theme capability and original stylesheet. The official SDK CLI generates the new release manifest with the matching API requirement after Changesets applies the addon version.
+
 ## 0.1.1
 
 ### Patch Changes
