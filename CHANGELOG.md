@@ -1,5 +1,11 @@
 # @gustavohps10/claude-theme
 
+## 0.2.1
+
+### Patch Changes
+
+- 75f5106: Atualiza dependência do SDK para 0.13.0.
+
 ## 0.2.0
 
 ### Minor Changes
