@@ -16,7 +16,7 @@ tags:
   - light
 tier: free
 downloadUrl: https://github.com/Gustavohps10/claude-theme/releases/download/v0.2.1/gustavohps10-claude-0.2.1.tladdon
-requiredApiVersion: '>=0.13.0'
+requiredApiVersion: '>=0.14.0'
 releaseDate: '2026-10-26'
 changelog:
   - Release 0.1.0
