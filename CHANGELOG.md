@@ -1,5 +1,11 @@
 # @gustavohps10/claude-theme
 
+## 0.2.2
+
+### Patch Changes
+
+- bea4628: Atualiza a dependência para @mr-tick/sdk@^0.14.0 e ajusta requiredApiVersion para >=0.14.0.
+
 ## 0.2.1
 
 ### Patch Changes
