@@ -1,5 +1,11 @@
 # @gustavohps10/claude-theme
 
+## 0.2.3
+
+### Patch Changes
+
+- bfddb56: Atualiza `@mr-tick/sdk` para `^0.15.0` e compatibilidade de API `>=0.15.0`.
+
 ## 0.2.2
 
 ### Patch Changes
